@@ -5,11 +5,11 @@
   <a href="https://michaelloka.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/michael-medhat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tryhackme.com/p/MichaelLoka"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="></a>
-  <a href="mailto:michael20191700488@cis.asu.edu.eg"><img src=></a>
+  <a href="mailto:michael20191700488@cis.asu.edu.eg"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.credly.com/users/michael-luka/badges"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label="></a>
   <br>
   <a href="https://app.hackthebox.com/profile/942665"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
-  <a href=" https://cybertalents.com/members/Michael_Loka/profile"><img src=""></a>
+  <a href="https://cybertalents.com/members/Michael_Loka/profile"><img src="https://img.shields.io/badge/CyberTalents-blue?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://monkeytype.com/profile/Michael_Luka"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Monkeytype&color=222222&logo=Monkeytype&logoColor=E2B714&label="></a>
   <br>
   <a href="https://www.credly.com/badges/4d3b62fc-7c6d-442f-8add-9d42ec39b1f8"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/222338af-9e70-4d2d-8abd-503d245d8584" width="100" height="100"></a>

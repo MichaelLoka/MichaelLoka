@@ -16,6 +16,7 @@
   <a href="https://www.credly.com/badges/7e18d09d-4e80-490a-94ec-eeef8e9e1800"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/e6fba38e-f468-40d2-a0c8-c7396121ee72" width="100" height="100"></a>
 </p>
 
+- Excelerate & Senselearner Cyber Security Intern
 - Bug Bounty Hunter & Freelancer At Hacker 1
 - TCM Certified Professional Ethical Hacker
 - Cybersecurity Mentor & Lecturer At ASU

@@ -9,12 +9,13 @@
   <a href="https://www.credly.com/users/michael-luka/badges"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label="></a>
   <br>
   <a href="https://app.hackthebox.com/profile/942665"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
+  <a href=" https://cybertalents.com/members/Michael_Loka/profile"><img src="https://img.shields.io/badge/CyberTalents-blue?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://monkeytype.com/profile/Michael_Luka"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Monkeytype&color=222222&logo=Monkeytype&logoColor=E2B714&label="></a>
   <br>
   <a href="https://www.credly.com/badges/4d3b62fc-7c6d-442f-8add-9d42ec39b1f8"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/222338af-9e70-4d2d-8abd-503d245d8584" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/6c73d4ae-80fc-4a5b-b8cd-634e2141ed0e"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/7e33f1ec-8df7-48da-97f4-df8bd36801c0" width="100" height="100"></a>
-  <a href="https://www.credly.com/badges/205adcd9-109e-4456-a167-5ff37f5ac211"><img src="https://www.credly.com/badges/205adcd9-109e-4456-a167-5ff37f5ac211" width="100" height="100"></a>
-  <a href="https://www.credly.com/badges/7e18d09d-4e80-490a-94ec-eeef8e9e1800"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/e6fba38e-f468-40d2-a0c8-c7396121ee72" width="100" height="100"></a>
+   <a href="https://www.credly.com/badges/0812180a-acdd-4bde-a62e-520f40cee7bc"><img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/205adcd9-109e-4456-a167-5ff37f5ac211"><img src="https://images.credly.com/size/220x220/images/2e42dc74-b988-4de5-af5e-ddb9ff49d517/IDN_Emerging_Tech_-_Cybersecurity_Intro.png" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/7e18d09d-4e80-490a-94ec-eeef8e9e1800"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/e6fba38e-f468-40d2-a0c8-c7396121ee72" width="100" height="100"></a>
 </p>
 

@@ -19,9 +19,9 @@
   <a href="https://www.credly.com/badges/7e18d09d-4e80-490a-94ec-eeef8e9e1800"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/e6fba38e-f468-40d2-a0c8-c7396121ee72" width="100" height="100"></a>
   <br>
   <a href="https://www.credly.com/badges/4d3b62fc-7c6d-442f-8add-9d42ec39b1f8"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/222338af-9e70-4d2d-8abd-503d245d8584" width="100" height="100"></a>
-  <a href="https://www.credly.com/badges/2722c3b5-1f45-4ef0-b0f8-0f1bfadd15bb"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/bea39c63-65fa-4135-adb9-ca237c1624da"><img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/cc4ddad1-c0a8-462b-b0b6-b922d4f13800"><img src="https://images.credly.com/size/680x680/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="100" height="100"></a>
-  <a href="https://www.credly.com/badges/7c67ff7a-4b2a-43d2-b78b-eab3b1dde2d7"><img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/2a8ee420-2507-4653-8492-d6b200f53e50"><img src="https://images.credly.com/size/680x680/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/b09390cc-db32-4602-bb8a-f1720002d6d4"><img src="https://images.credly.com/size/680x680/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="100" height="100"></a>
 </p>
 
@@ -29,6 +29,8 @@
 - Bug Bounty Hunter & Freelancer At Hacker 1
 - TCM Certified Professional Ethical Hacker
 - Cybersecurity Mentor & Lecturer At ASU
+- Top 1% on TryHackMe, earned 16 badges
+- Solved 100+ PortSwigger Labs. 
 
 Experienced Cybersecurity Professional skilled in Bug Bounty Hunting, Security Mentor, and Problem-Solving. Bachelor of Computer Science in Information Systems (GPA: 3.3) from Ain Shams University. Proficient in network security, web application security, and programming. passionate about securing digital systems and fostering a safe cyber environment.
 
@@ -39,7 +41,7 @@ Experienced Cybersecurity Professional skilled in Bug Bounty Hunting, Security M
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label="/>
@@ -53,5 +55,6 @@ Experienced Cybersecurity Professional skilled in Bug Bounty Hunting, Security M
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=316c5e&style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=ts-node&color=3178C6&logo=ts-node&logoColor=FFFFFF&label="/>
 </p>
 

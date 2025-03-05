@@ -12,11 +12,11 @@
   <a href="https://cybertalents.com/members/Michael_Loka/profile"><img src="https://img.shields.io/badge/CyberTalents-blue?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://monkeytype.com/profile/Michael_Luka"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Monkeytype&color=222222&logo=Monkeytype&logoColor=E2B714&label="></a>
   <br>
-  <a href="https://www.credly.com/badges/e18e15e7-1e56-4e57-b386-77aa21fb5e4c"><img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/e18e15e7-1e56-4e57-b386-77aa21fb5e4c"><img src="https://images.credly.com/size/680x680/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/6c73d4ae-80fc-4a5b-b8cd-634e2141ed0e"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/7e33f1ec-8df7-48da-97f4-df8bd36801c0" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/0812180a-acdd-4bde-a62e-520f40cee7bc"><img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/205adcd9-109e-4456-a167-5ff37f5ac211"><img src="https://images.credly.com/size/220x220/images/2e42dc74-b988-4de5-af5e-ddb9ff49d517/IDN_Emerging_Tech_-_Cybersecurity_Intro.png" width="100" height="100"></a>
-  <a href="https://www.credly.com/badges/7e18d09d-4e80-490a-94ec-eeef8e9e1800"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/e6fba38e-f468-40d2-a0c8-c7396121ee72" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/7e18d09d-4e80-490a-94ec-eeef8e9e1800"><img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100" height="100"></a>
   <br>
   <a href="https://www.credly.com/badges/4d3b62fc-7c6d-442f-8add-9d42ec39b1f8"><img src="https://github.com/MichaelLoka/My-Portfolio/assets/62102221/222338af-9e70-4d2d-8abd-503d245d8584" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/bea39c63-65fa-4135-adb9-ca237c1624da"><img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100" height="100"></a>
@@ -25,14 +25,18 @@
   <a href="https://www.credly.com/badges/b09390cc-db32-4602-bb8a-f1720002d6d4"><img src="https://images.credly.com/size/680x680/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="100" height="100"></a>
 </p>
 
-- Excelerate & Senselearner Cyber Security Intern
+- Immersed in a 4-month Intensive code camp in ITI cybersecurity
+- Managed IT infrastructure resolving 100+ tickets in Military Service
+- Excelerate defensive security & Senselearner Cybersecurity Intern
 - Bug Bounty Hunter & Freelancer At Hacker 1
+- Cisco Certified Network security engineer and CCNAv7 certified
+- Fortinet Network security professional and certified cybersecurity associate
 - TCM Certified Professional Ethical Hacker
-- Cybersecurity Mentor & Lecturer At ASU
-- Top 1% on TryHackMe, earned 16 badges
-- Solved 100+ PortSwigger Labs. 
+- Cybersecurity Mentor & Lecturer At ASU and a team leader
+- Top 3 in international CTFs and Competition Organizer
+- Top 1% on TryHackMe, earned 18 badges & Top 200 on Cybertalents
 
-Experienced Cybersecurity Professional skilled in Bug Bounty Hunting, Security Mentor, and Problem-Solving. Bachelor of Computer Science in Information Systems (GPA: 3.3) from Ain Shams University. Proficient in network security, web application security, and programming. passionate about securing digital systems and fostering a safe cyber environment.
+Cybersecurity specialist with 3+ years of hands-on experience in penetration testing, system security, and infrastructure hardening. Graduated from the Faculty of Computer Science at Ain Shams with a CGPA of 3.31. Published IEEE ICICIS2023 research on blockchain security. Ranked Top 1% on TryHackMe and Top 3 in international CTFs. Skilled in offensive/defensive security, SIEM, and security automation. Certified security lecturer, mentor, and team leader.
 
 ---
 
